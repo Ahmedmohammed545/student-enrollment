@@ -47,6 +47,3 @@ student.sql   database schema
 - Passwords are hashed with SHA1(MD5); this should move to `password_hash()`.
 - A few queries (for example in `delete.php`) are not parameterised yet.
 - The local setup uses MySQL `root` with no password.
-
-## Authors
-Team project by [names]. My part: [what you built, e.g. client registration flow, approval workflow].
